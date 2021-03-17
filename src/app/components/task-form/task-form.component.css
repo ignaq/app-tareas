@@ -1,0 +1,17 @@
+form{
+margin: 0.5rem;
+display: flex;
+
+}
+form button{
+    border-radius: 0;
+}
+form input{
+    border-radius: 0;
+}
+.card{
+    background: #cae1e2;
+    padding: 0.5rem;
+    margin-bottom: 10px;
+
+}

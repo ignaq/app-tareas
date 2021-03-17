@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-tareas"
+    }
+  },
+  "defaultProject": "app-tareas",
+  "cli": {
+    "analytics": false
+  }
 }
